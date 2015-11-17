@@ -30,8 +30,11 @@ C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Microsof
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Microsoft.Owin.Security.Twitter.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\MySql.Data.dll
+C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\MySql.Data.Entity.EF6.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Newtonsoft.Json.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Owin.dll
+C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\RonaldMcDonaldHouseRaffle.Data.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.Helpers.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.Mvc.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.Optimization.dll
@@ -40,6 +43,7 @@ C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.W
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.WebPages.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.WebPages.Razor.dll
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\WebGrease.dll
+C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\RonaldMcDonaldHouseRaffle.Data.pdb
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.Helpers.xml
 C:\Projects\RonaldMcDonaldHouseRaffle\src\RonaldMcDonaldHouseRaffle\bin\System.Web.Mvc.xml
