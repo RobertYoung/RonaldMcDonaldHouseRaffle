@@ -1,3 +1,4 @@
 src/.vs/config/applicationhost.config
 src/RonaldMcDonaldHouseRaffle.Tests/obj/
 src/RonaldMcDonaldHouseRaffle/bin/
+src/RonaldMcDonaldHouseRaffle.Tests/bin/

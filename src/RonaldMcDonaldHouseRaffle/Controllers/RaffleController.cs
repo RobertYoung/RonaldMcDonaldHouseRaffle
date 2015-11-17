@@ -6,23 +6,16 @@ using System.Web.Mvc;
 
 namespace RonaldMcDonaldHouseRaffle.Controllers
 {
-    public class HomeController : Controller
+    public class RaffleController : Controller
     {
         public ActionResult Index()
         {
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Details()
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Title = "Details";
 
             return View();
         }

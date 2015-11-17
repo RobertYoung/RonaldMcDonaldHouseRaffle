@@ -16,7 +16,7 @@ namespace RonaldMcDonaldHouseRaffle
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Raffle", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
