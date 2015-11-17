@@ -1,4 +1,5 @@
 ﻿using RonaldMcDonaldHouseRaffle.Data;
+using RonaldMcDonaldHouseRaffle.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,15 +19,25 @@ namespace RonaldMcDonaldHouseRaffle.Controllers
 
         public ActionResult Index()
         {
-            var test = _context.Contestants.ToList();
+            return View();
+        }
+        
+        public ActionResult Details()
+        {
             return View();
         }
 
-        public ActionResult Details()
+        [HttpPost]
+        public ActionResult Details([Bind(Include = "ContestantId,FirstName,Surname,Address1,Address2,City,Postcode,PhoneNumber")] ContestantDetails contestantDetails)
         {
-            ViewBag.Title = "Details";
+            if (ModelState.IsValid)
+            {
+                _context.Contestants.Add(contestantDetails);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
 
-            return View();
+            return View(contestantDetails);
         }
     }
 }
